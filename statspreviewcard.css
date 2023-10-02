@@ -111,7 +111,7 @@ span {
   
     .main-wrapper {
         width: 300px;
-        height: 80%;
+        height: 100%;
         flex-direction: column;
     }
 
